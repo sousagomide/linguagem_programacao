@@ -1,0 +1,1 @@
+Aula criada para introduzir os conceitos de funções; arrays e objetos.
